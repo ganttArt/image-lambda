@@ -8,3 +8,4 @@
 Notes:
 
 - Upload package.json and node_modules, not package-lock.json
+- Use `zip -r server.zip *` to zip
